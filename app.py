@@ -1,5 +1,4 @@
 import streamlit as st
-
 from ui.chat import render_chat
 from ui.config import LAYOUT, PAGE_ICON, PAGE_TITLE
 from ui.sidebar import render_sidebar
